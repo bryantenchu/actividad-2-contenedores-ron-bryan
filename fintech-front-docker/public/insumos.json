@@ -1,0 +1,52 @@
+{
+  "insumos": [
+    {
+      "id": 1,
+      "nombre": "Bolígrafos azules",
+      "cantidad": 50,
+      "precio": 15.00
+    },
+    {
+      "id": 2,
+      "nombre": "Resmas de papel A4",
+      "cantidad": 10,
+      "precio": 120.00
+    },
+    {
+      "id": 3,
+      "nombre": "Carpetas archivadoras",
+      "cantidad": 25,
+      "precio": 85.00
+    },
+    {
+      "id": 4,
+      "nombre": "Marcadores permanentes",
+      "cantidad": 30,
+      "precio": 45.00
+    },
+    {
+      "id": 5,
+      "nombre": "Clips metálicos",
+      "cantidad": 100,
+      "precio": 12.50
+    },
+    {
+      "id": 6,
+      "nombre": "Grapadoras",
+      "cantidad": 5,
+      "precio": 75.00
+    },
+    {
+      "id": 7,
+      "nombre": "Libretas tamaño carta",
+      "cantidad": 20,
+      "precio": 60.00
+    },
+    {
+      "id": 8,
+      "nombre": "Post-it variados",
+      "cantidad": 40,
+      "precio": 35.00
+    }
+  ]
+}
